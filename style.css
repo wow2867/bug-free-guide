@@ -1,0 +1,14 @@
+nav {
+    z-index: 99;
+}
+
+.carousel-item img {
+    height: 95vh;
+}
+
+.skill_list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+}
